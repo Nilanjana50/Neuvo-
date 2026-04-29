@@ -1,0 +1,9 @@
+{
+  "name": "neuvo-portfolio",
+  "private": true,
+  "scripts": {
+    "start": "cd \"pankaj-biswas-react 3/pankaj-react\" && npm start",
+    "build": "cd \"pankaj-biswas-react 3/pankaj-react\" && npm install && npm run build",
+    "vercel-build": "cd \"pankaj-biswas-react 3/pankaj-react\" && npm install && npm run build"
+  }
+}
